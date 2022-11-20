@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @burhanakinci
 - 👀 I’m interested in neuroscience and programming
-- 🌱 I’m currently learning python and computational neuroscience
+- 🌱 I’m currently learning python, SQL and computational neuroscience
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me akinciburhan1187@gmail.com
 
